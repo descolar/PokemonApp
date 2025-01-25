@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyAppPokemon</string>
+    <string name="login_screen_title">Login</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="google_login_button">Log In with Google</string>
+    <string name="no_account">Dont have an account? Sign up now</string>
+</resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PokemonApp</string>
+    <string name="login_screen_title">Iniciar sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="google_login_button">Iniciar sesión con Google</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate ahora</string>
 </resources>

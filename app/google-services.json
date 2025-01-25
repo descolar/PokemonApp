@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683844688830",
+    "project_id": "pokemonapp-186da",
+    "storage_bucket": "pokemonapp-186da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683844688830:android:e1a6981d437a96f1e677ef",
+        "android_client_info": {
+          "package_name": "com.descolar.pokemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683844688830-934ul13ehq4ukgn1hq3v0f8fn2taqorv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7nxEJ7tdRjqzvl0Pvn-JjqKCZ1hiuTQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683844688830-934ul13ehq4ukgn1hq3v0f8fn2taqorv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
